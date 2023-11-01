@@ -1,0 +1,14 @@
+
+.container{
+    max-width: 144px;
+    margin: 0 auto;
+}
+
+.bg-home{
+    position: relative;
+}
+
+.bg-home:before{
+    position:absolute;
+    background-color: #A2A182;
+}
